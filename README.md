@@ -45,8 +45,8 @@ We maintain both public and private repositories for our projects and libraries.
 ## 🤝 Work With Us
 
 Looking for a technology partner or curious about what we can build together? Let’s talk:
-- [Website](#)
-- [Email](mailto:contact@sial.tech)
+- [Website](sialtechnologies.com)
+- [Email](mailto:info@sialtechnologies.com)
 - [LinkedIn](#)
 
 ---
